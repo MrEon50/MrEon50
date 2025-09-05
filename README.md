@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, if you like AI innovations, you've come to the right place. 👋  
 
-<!--
-**MrEon50/MrEon50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I explore **neural networks**, learn with **AI**, and create **Python programs powered by AI**.  
+My focus is on discovering and building **innovations in artificial intelligence**.  
 
-Here are some ideas to get you started:
+## 🔭 What I do
+- Experiment with neural network architectures  
+- Develop Python projects with AI integration  
+- Research and prototype AI-driven innovations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current goals
+- Deepen knowledge of neural networks  
+- Build useful AI tools and modules  
+- Share projects and ideas with the community  
+
+## 📫 Connect
+Feel free to check my repositories, open issues, or suggest collaborations.  
